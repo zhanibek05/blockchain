@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.51.1",
+    "dotenv": "^17.2.3",
+    "ether": "^0.0.9",
+    "ethers": "^6.15.0",
+    "solc": "^0.8.30"
+  }
+}
